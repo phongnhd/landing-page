@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  console.log("VITE_API_URL =", import.meta.env.VITE_API_URL);
+ baseURL: "https://landing-page-4jj0.onrender.com",
   timeout: 10000,
   headers: { 'Content-Type': 'application/json' },
 });
