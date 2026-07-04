@@ -1,6 +1,6 @@
 import express from 'express';
 import cors from 'cors';
-import pool from './config/database.js';
+// import pool from './config/database.js';
 import chatRoute from './routes/chat.route.js';
 const app = express();
 const PORT = process.env.PORT || 3000;
