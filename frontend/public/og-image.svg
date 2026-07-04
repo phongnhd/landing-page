@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#0a0a0f"/>
+  <circle cx="600" cy="280" r="120" stroke="#3388fc" stroke-width="3" opacity="0.6"/>
+  <circle cx="600" cy="280" r="40" fill="#3388fc"/>
+  <text x="600" y="480" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-size="48" font-weight="700">Aether One</text>
+  <text x="600" y="530" text-anchor="middle" fill="#3388fc" font-family="system-ui, sans-serif" font-size="24">The AI hub that thinks ahead.</text>
+</svg>
