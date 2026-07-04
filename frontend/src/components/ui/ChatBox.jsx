@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 // Constants
 const INITIAL_MESSAGE = { id: '1', text: 'Hỏi nhẹ tay thôi... CPU của mình cũng biết mệt.', sender: 'bot', timestamp: new Date() };
-const CHAT_API_URL = '/api/chat';
+const CHAT_API_URL = import.meta.env.VITE_API_URL +;
 const MAX_HISTORY = 10;
 const SCROLL_DELAY = 100;
 const SENDER = { USER: 'user', BOT: 'bot' };
